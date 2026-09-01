@@ -1,16 +1,20 @@
-## Hi there 👋
+# MAJALAH4D
 
-<!--
-**majalah4d/majalah4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MAJALAH4D membahas keuangan dari sisi yang dekat dengan kehidupan sehari-hari—mulai dari cara mengatur pengeluaran, memahami keputusan ekonomi, sampai kebiasaan finansial yang sering dianggap sepele.
 
-Here are some ideas to get you started:
+## Fokus Pembahasan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Pengelolaan keuangan pribadi
+- Kebiasaan menabung
+- Perencanaan pengeluaran
+- Ekonomi praktis
+- Literasi finansial
+- Keputusan finansial sehari-hari
+
+## Tentang MAJALAH4D
+
+Pembahasan di MAJALAH4D dibuat dengan pendekatan yang praktis dan mudah dipahami. Topiknya berangkat dari situasi nyata, seperti mengatur gaji, menentukan prioritas pengeluaran, memahami kebutuhan dan keinginan, hingga mengenali dampak keputusan ekonomi dalam kehidupan sehari-hari.
+
+## Website Resmi
+
+[MAJALAH4D](https://carimajalah4d.com/)
